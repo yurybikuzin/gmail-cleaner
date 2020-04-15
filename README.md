@@ -14,6 +14,6 @@ timing (elapsed/estimated/took) given in seconds
 
 `credentials.json` created by https://developers.google.com/gmail/api/quickstart/python
 
-## Prerequizites
+## Prerequisites
 
 `install.sh` installs python3, pip and neccesary packages
